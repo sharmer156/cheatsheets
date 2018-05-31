@@ -1,4 +1,5 @@
-# Bem vindo!
+# 网络及电脑技术类应用的备忘录——时间太久需更新
+
 Neste repositório, você encontrará diversos CheetSheats.
 
 ## Sumário
