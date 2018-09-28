@@ -57,6 +57,7 @@ IT初步建立待完善
 - Deep Learning Cheat Sheet
 - All Cheat Sheets(PDF)
 
+```markdown
 ─_AI[1]
 │  │  .gitignore
 │  │  All Cheat Sheets.pdf
@@ -199,7 +200,10 @@ IT初步建立待完善
 │              The One Page Linux Manual.pdf
 │
 └─_[Lighting][3]
+```
         Readme.markdown
 [1] : #_AI
+
 [2] : #_IT
+
 [3] : #_LIGHTING
